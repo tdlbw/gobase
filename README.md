@@ -1,2 +1,2 @@
-# go-base
+# gobase
 For lecture about Golang
